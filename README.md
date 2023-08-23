@@ -18,4 +18,5 @@
 <img width="1000" alt="Screenshot 2023-08-23 at 1 52 05 PM" src="https://github.com/malolasimman/Vehicle-Tracking-and-Fire-Alert-System-based-on-MSP432/assets/59477885/8006cd7d-b53b-43c5-a46e-7ca92008a8ee">
 
 
+## REPORT
 [FIRE SAFETY SYSTEM FOR AUTONOMOUS VEHICLES (6).pdf](https://github.com/malolasimman/Vehicle-Tracking-and-Fire-Alert-System-based-on-MSP432/files/12422778/FIRE.SAFETY.SYSTEM.FOR.AUTONOMOUS.VEHICLES.6.pdf)
