@@ -1,0 +1,12 @@
+"./command_process.obj"
+"./i2c_ops.obj"
+"./ir_sensor.obj"
+"./main.obj"
+"./motor.obj"
+"./oled.obj"
+"./pwm_init.obj"
+"./startup_msp432p401r_ccs.obj"
+"./system_msp432p401r.obj"
+"./uart_gps.obj"
+"../msp432p401r.cmd"
+-llibc.a
